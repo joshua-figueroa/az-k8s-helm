@@ -69,4 +69,4 @@ This image is based on:
 ## 🧑‍💻 Maintainer
 
 **Joshua Figueroa**  
-For questions or issues, [open a GitHub issue](https://github.com/your/repo/issues) or reach out directly.
+For questions or issues, [open a GitHub issue](https://github.com/joshua-figueroa/az-k8s-helm/issues) or reach out directly.
