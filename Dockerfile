@@ -50,9 +50,6 @@ RUN apk del \
   libffi-dev \
   openssl-dev \
   cargo \
-  make \
-  curl \
-  tar \
   && rm -rf /var/cache/apk/*
 
 CMD ["bash"]
