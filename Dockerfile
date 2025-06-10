@@ -15,6 +15,7 @@ RUN apk add --no-cache --update \
   libffi-dev \
   openssl-dev \
   cargo \
+  git \
   make \
   bash \
   curl \
